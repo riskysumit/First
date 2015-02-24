@@ -1,2 +1,3 @@
 # First
-My first repository
+My first repository\
+Learning to create some awesome projects
